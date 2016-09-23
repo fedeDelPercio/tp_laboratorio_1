@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1473084131 source:c:\users\alumno.lab4pc\desktop\clase 6\tpcalculadora\delpercio.c
+
+1473084171 source:c:\users\alumno.lab4pc\desktop\clase 6\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"delPercio.h"
+
+1473084092 c:\users\alumno.lab4pc\desktop\clase 6\tpcalculadora\delpercio.h
+
+1473084131 source:c:\users\alumno.lab4pc\desktop\tp calculadora\nuevo\tpcalculadora\delpercio.c
+
+1473084171 source:c:\users\alumno.lab4pc\desktop\tp calculadora\nuevo\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"delPercio.h"
+
+1473084092 c:\users\alumno.lab4pc\desktop\tp calculadora\nuevo\tpcalculadora\delpercio.h
+
+1473257336 source:f:\c\tp calculadora2\nuevo\tpcalculadora\delpercio.c
+
+1473257330 source:f:\c\tp calculadora2\nuevo\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"delPercio.h"
+
+1473256388 f:\c\tp calculadora2\nuevo\tpcalculadora\delpercio.h
+
+1473257460 source:i:\c\tp calculadora2\nuevo\tpcalculadora\delpercio.c
+
+1473367791 source:c:\users\ndp\desktop\tp calculadora2\nuevo\tpcalculadora\delpercio.c
+	<stdio.h>
+	<stdlib.h>
+	"delPercio.h"
+
+1473368220 source:c:\users\ndp\desktop\tp calculadora2\nuevo\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"delPercio.h"
+
+1473374069 c:\users\ndp\desktop\tp calculadora2\nuevo\tpcalculadora\delpercio.h
+
