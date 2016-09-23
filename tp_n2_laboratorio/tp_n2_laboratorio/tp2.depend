@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1474502003 source:c:\users\ndp\desktop\tp2\delpercio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474496585 source:c:\users\ndp\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"delPercio.h"
+
+1474495995 c:\users\ndp\desktop\tp2\delpercio.h
+
+1474656520 source:c:\users\los pi\desktop\prueba\tp2\delpercio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474655426 source:c:\users\los pi\desktop\prueba\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"delPercio.h"
+
+1474657818 c:\users\los pi\desktop\prueba\tp2\delpercio.h
+
